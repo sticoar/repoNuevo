@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference IncLude="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+
 </Project>
